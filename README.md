@@ -146,7 +146,7 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or share some
 
 ---
 
-## 🙏 Thank You for Visiting My Profile!
+## **🙏🙏Jai Jinendra🙏🙏** and 🙏Thank You for Visiting My Profile!
 I appreciate you taking the time to check out my GitHub profile. If you’d like to connect or collaborate, don’t hesitate to reach out. Let's build something awesome together!
 
 ---
