@@ -8,9 +8,9 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harsh_hirawat/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-hirawat-b657061b7/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh@greenhacker.tech)  
+[[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harsh_hirawat/) 
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-hirawat-b657061b7/)  
+[[Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh@greenhacker.tech)  
 
 ---
 
@@ -137,9 +137,9 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or share some
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GreenHacker420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=GreenHacker420&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenHacker420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+[](https://github-readme-stats.vercel.app/api?username=GreenHacker420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+[](https://nirzak-streak-stats.vercel.app/?user=GreenHacker420&theme=dark&hide_border=false)  
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenHacker420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
