@@ -1,11 +1,9 @@
-<!-- Profile Banner -->
 <p align="center">
   <img src="./gif/mario.gif" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Harsh Hirawat</h1>
 
-<!-- Typing Animation for About Me / Tagline -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4D9EFF&center=true&vCenter=true&width=600&lines=🚀+Passionate+Developer;💡+AI+%26+OpenCV+Enthusiast;🌐+Full-Stack+Engineer" alt="Typing SVG" />
 </p>
@@ -22,6 +20,11 @@
 ---
 
 ## 🛠️ Tech Stack
+
+[![C++][cpp-badge]][cpp-link] [![JavaScript][js-badge]][js-link] [![Python][python-badge]][python-link] [![TypeScript][ts-badge]][ts-link] [![PowerShell][ps-badge]][ps-link] [![Bash][bash-badge]][bash-link] [![HTML][html-badge]][html-link] [![CSS][css-badge]][css-link] [![React][react-badge]][react-link] [![Bootstrap][bootstrap-badge]][bootstrap-link] [![Tailwind][tailwind-badge]][tailwind-link] [![Next.js][nextjs-badge]][nextjs-link] [![Node.js][node-badge]][node-link] [![Express][express-badge]][express-link] [![Django][django-badge]][django-link] [![Flask][flask-badge]][flask-link] [![FastAPI][fastapi-badge]][fastapi-link] [![Spring][spring-badge]][spring-link] [![AWS][aws-badge]][aws-link] [![Azure][azure-badge]][azure-link] [![Firebase][firebase-badge]][firebase-link] [![GCP][gcp-badge]][gcp-link] [![Netlify][netlify-badge]][netlify-link] [![Vercel][vercel-badge]][vercel-link] [![MySQL][mysql-badge]][mysql-link] [![SQLite][sqlite-badge]][sqlite-link] [![MongoDB][mongodb-badge]][mongodb-link] [![Supabase][supabase-badge]][supabase-link] [![PostgreSQL][postgres-badge]][postgres-link] [![GitHub Actions][gha-badge]][gha-link] [![Git][git-badge]][git-link] [![Docker][docker-badge]][docker-link] [![Postman][postman-badge]][postman-link] [![Kubernetes][k8s-badge]][k8s-link] [![GitHub][github-badge]][github-link] [![TensorFlow][tf-badge]][tf-link] [![PyTorch][pt-badge]][pt-link] [![NumPy][numpy-badge]][numpy-link] [![Pandas][pandas-badge]][pandas-link] [![Matplotlib][matplotlib-badge]][matplotlib-link] [![Figma][figma-badge]][figma-link] [![Blender][blender-badge]][blender-link] [![Photoshop][ps-badge]][ps-link] [![Adobe][adobe-badge]][adobe-link] [![Canva][canva-badge]][canva-link] [![Arduino][arduino-badge]][arduino-link] [![Raspberry Pi][rpi-badge]][rpi-link] [![Unreal Engine][unreal-badge]][unreal-link] [![Notion][notion-badge]][notion-link] [![WordPress][wp-badge]][wp-link] [![Power BI][powerbi-badge]][powerbi-link] [![Meta][meta-badge]][meta-link] [![Xbox][xbox-badge]][xbox-link] [![Epic Games][epic-badge]][epic-link]
+
+
+<details>
 
 ### Programming Languages
 [![C++][cpp-badge]][cpp-link] [![JavaScript][js-badge]][js-link] [![Python][python-badge]][python-link] [![TypeScript][ts-badge]][ts-link] [![PowerShell][ps-badge]][ps-link] [![Bash][bash-badge]][bash-link]
@@ -42,7 +45,7 @@
 [![GitHub Actions][gha-badge]][gha-link] [![Git][git-badge]][git-link] [![Docker][docker-badge]][docker-link] [![Postman][postman-badge]][postman-link] [![Kubernetes][k8s-badge]][k8s-link] [![GitHub][github-badge]][github-link]
 
 ### Data Science & Machine Learning
-[![TensorFlow][tf-badge]][tf-link] [![PyTorch][pt-badge]][pt-link]
+[![TensorFlow][tf-badge]][tf-link] [![PyTorch][pt-badge]][pt-link] [![NumPy][numpy-badge]][numpy-link] [![Pandas][pandas-badge]][pandas-link] [![Matplotlib][matplotlib-badge]][matplotlib-link]
 
 ### UI/UX & Design
 [![Figma][figma-badge]][figma-link] [![Blender][blender-badge]][blender-link] [![Photoshop][ps-badge]][ps-link] [![Adobe][adobe-badge]][adobe-link] [![Canva][canva-badge]][canva-link]
@@ -51,6 +54,8 @@
 [![Arduino][arduino-badge]][arduino-link] [![Raspberry Pi][rpi-badge]][rpi-link] [![Unreal Engine][unreal-badge]][unreal-link] [![Notion][notion-badge]][notion-link] [![WordPress][wp-badge]][wp-link] [![Power BI][powerbi-badge]][powerbi-link] [![Meta][meta-badge]][meta-link] [![Xbox][xbox-badge]][xbox-link] [![Epic Games][epic-badge]][epic-link]
 
 ---
+</details>
+
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -114,7 +119,6 @@ Created with ❤️ by Harsh Hirawat aka GreenHacker
 
 ---
 
-<!-- Badge References -->
 [cpp-badge]: https://skillicons.dev/icons?i=cpp
 [cpp-link]: https://en.cppreference.com/w/
 
@@ -229,6 +233,15 @@ Created with ❤️ by Harsh Hirawat aka GreenHacker
 [pt-badge]: https://skillicons.dev/icons?i=pytorch
 [pt-link]: https://pytorch.org/
 
+[numpy-badge]: https://skillicons.dev/icons?i=numpy
+[numpy-link]: https://numpy.org/
+
+[pandas-badge]: https://skillicons.dev/icons?i=pandas
+[pandas-link]: https://pandas.pydata.org/
+
+[matplotlib-badge]: https://skillicons.dev/icons?i=matplotlib
+[matplotlib-link]: https://matplotlib.org/
+
 [figma-badge]: https://skillicons.dev/icons?i=figma
 [figma-link]: https://www.figma.com/
 
@@ -303,3 +316,15 @@ Created with ❤️ by Harsh Hirawat aka GreenHacker
 
 [automation-badge]: https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white
 [automation-link]: https://zapier.com/
+
+[powerbi-badge]: https://img.shields.io/badge/Power%20BI-5C2D91?style=for-the-badge&logo=powerbi&logoColor=white
+[powerbi-link]: https://powerbi.microsoft.com/
+
+[meta-badge]: https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white
+[meta-link]: https://about.facebook.com/meta/
+
+[xbox-badge]: https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white
+[xbox-link]: https://www.xbox.com/
+
+[epic-badge]: https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white
+[epic-link]: https://www.epicgames.com/
