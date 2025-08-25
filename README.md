@@ -1,156 +1,294 @@
-## 💫 About Me:
-🚀 I'm currently working on a photo-sharing platform with face recognition.  
-🤝 Open to contributing to the open-source community.  
-📚 Learning Machine Learning for face detection.  
-💻 Passionate developer and open-source contributor.  
-⚡ Fun fact: I can spend hours debugging code but still forget where I kept my phone! 😆  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="./gif/mario.gif" alt="Banner" width="100%"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Harsh Hirawat</h1>
+
+<!-- Typing Animation for About Me / Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4D9EFF&center=true&vCenter=true&width=600&lines=🚀+Passionate+Developer;💡+AI+%26+OpenCV+Enthusiast;🌐+Full-Stack+Engineer" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harsh_hirawat/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-hirawat-b657061b7/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh@greenhacker.tech)  
+## ⚡ About Me
+- 🎓 B.Tech CSE student at **Newton School of Technology x Ajeenkya DY Patil University, Pune**
+- 🤖 Currently working on **Computer Vision & AI projects**
+- 🌱 Exploring **Machine Learning, Web Development, and Cloud**
+- ✨ Love building projects that merge AI with real-world applications
+- 🎯 Goal: To become a **versatile AI-driven full-stack innovator**
 
 ---
 
-## 🚀 Call to Action:
-Feel free to reach out if you'd like to collaborate, discuss tech, or share some awesome ideas!  
-- [LinkedIn](https://www.linkedin.com/in/harsh-hirawat-b657061b7/)  
-- [Email](mailto:harsh@greenhacker.tech)  
-- [Instagram](https://www.instagram.com/harsh_hirawat/)
+## 🛠️ Tech Stack
+
+### Programming Languages
+[![C++][cpp-badge]][cpp-link] [![JavaScript][js-badge]][js-link] [![Python][python-badge]][python-link] [![TypeScript][ts-badge]][ts-link] [![PowerShell][ps-badge]][ps-link] [![Bash][bash-badge]][bash-link]
+
+### Frontend Development
+[![HTML][html-badge]][html-link] [![CSS][css-badge]][css-link] [![React][react-badge]][react-link] [![Bootstrap][bootstrap-badge]][bootstrap-link] [![Tailwind][tailwind-badge]][tailwind-link] [![Next.js][nextjs-badge]][nextjs-link] [![Ionic][ionic-badge]][ionic-link]
+
+### Backend Development
+[![Node.js][node-badge]][node-link] [![Express][express-badge]][express-link] [![Django][django-badge]][django-link] [![Flask][flask-badge]][flask-link] [![FastAPI][fastapi-badge]][fastapi-link] [![Spring][spring-badge]][spring-link]
+
+### Cloud & Deployment
+[![AWS][aws-badge]][aws-link] [![Azure][azure-badge]][azure-link] [![Firebase][firebase-badge]][firebase-link] [![GCP][gcp-badge]][gcp-link] [![Netlify][netlify-badge]][netlify-link] [![Vercel][vercel-badge]][vercel-link]
+
+### Databases
+[![MySQL][mysql-badge]][mysql-link] [![SQLite][sqlite-badge]][sqlite-link] [![MongoDB][mongodb-badge]][mongodb-link] [![Supabase][supabase-badge]][supabase-link] [![PostgreSQL][postgres-badge]][postgres-link]
+
+### DevOps & Tools
+[![GitHub Actions][gha-badge]][gha-link] [![Git][git-badge]][git-link] [![Docker][docker-badge]][docker-link] [![Postman][postman-badge]][postman-link] [![Kubernetes][k8s-badge]][k8s-link] [![GitHub][github-badge]][github-link]
+
+### Data Science & Machine Learning
+[![TensorFlow][tf-badge]][tf-link] [![PyTorch][pt-badge]][pt-link]
+
+### UI/UX & Design
+[![Figma][figma-badge]][figma-link] [![Blender][blender-badge]][blender-link] [![Photoshop][ps-badge]][ps-link] [![Adobe][adobe-badge]][adobe-link] [![Canva][canva-badge]][canva-link]
+
+### Miscellaneous
+[![Arduino][arduino-badge]][arduino-link] [![Raspberry Pi][rpi-badge]][rpi-link] [![Unreal Engine][unreal-badge]][unreal-link] [![Notion][notion-badge]][notion-link] [![WordPress][wp-badge]][wp-link] [![Power BI][powerbi-badge]][powerbi-link] [![Meta][meta-badge]][meta-link] [![Xbox][xbox-badge]][xbox-link] [![Epic Games][epic-badge]][epic-link]
 
 ---
 
-## 🏆 Achievements & Certifications:
-- **Postman API Fundamentals Student Expert** – Mastered API development and testing with Postman.
-- **Certified Machine Learning Specialist** – Completed a comprehensive course on machine learning.
-- **1st Place - Robo Soccer Competition (2025)** – Led a team to victory at the national Robo Soccer competition.
-- **Tekron 2025 Organizing Committee Member** – Contributed to organizing one of the largest technical events at my university.
-  
----
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GreenHacker420&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenHacker420&layout=compact&theme=radical" height="180"/>
+</p>
 
-## 🛠️ Skills:
-### **Web Development**  
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js, Next.js, TailwindCSS, Bootstrap  
-- **Backend**: Node.js, Express.js, MongoDB, MySQL, Firebase  
-- **Other**: Git, Docker, Postman
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GreenHacker420&theme=radical" height="180"/>
+</p>
 
-### **Machine Learning & AI**  
-- **Algorithms**: TensorFlow, PyTorch, Scikit-learn, OpenCV  
-- **Tools**: Pandas, NumPy, Matplotlib
-
-### **Cloud & Databases**  
-- **Cloud**: AWS, Google Cloud, Firebase  
-- **Databases**: MongoDB, MySQL  
-
-### **Other**  
-- **Languages**: Python, JavaScript, C++, TypeScript, Rust, Dart  
-- **Dev Tools**: VS Code, Git, Docker, Postman
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GreenHacker420&theme=react-dark"/>
+</p>
 
 ---
 
-## 💻 Tech Stack:
-
-## Programming Languages
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-## Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
- ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
- ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-
-## Backend Development
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-## Cloud & Deployment
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
- ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
- ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## Databases
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-## DevOps & Tools
- ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## Data Science & Machine Learning
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
- ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-## UI/UX & Design
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
- ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
- ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-## Miscellaneous
- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
- ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
- ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
- ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
- ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
- ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
- ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
- ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
- ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-  
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GreenHacker420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=GreenHacker420&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenHacker420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## 🚀 Featured Projects
+| Project | Tech Stack |
+|---------|------------|
+| 🌐 [Portfolio](https://github.com/GreenHacker420/portfolio) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ✋ [Gesture Canvas](https://github.com/GreenHacker420/gesture-canvas) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0052FF?style=for-the-badge&logo=mediapipe&logoColor=white) |
+| 🧠 [MindMend](https://github.com/GreenHacker420/MindMend) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white) ![Mental Health](https://img.shields.io/badge/Mental_Health-4CAF50?style=for-the-badge&logo=healthicons&logoColor=white) |
+| 🤖 [3D Gesture Game](https://github.com/GreenHacker420/3d_Game_Tensorflow) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Babylon.js](https://img.shields.io/badge/Babylon.js-0081C9?style=for-the-badge&logo=babylon.js&logoColor=white) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hand Tracking](https://img.shields.io/badge/Hand_Tracking-0052FF?style=for-the-badge&logo=mediapipe&logoColor=white) |
+| 📊 [Stock Analysis Platform](https://github.com/GreenHacker420/stock-analysis-platform) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white) ![Finance](https://img.shields.io/badge/Finance-4CAF50?style=for-the-badge) |
+| 📦 [Tally Sync ERP](https://github.com/GreenHacker420/Tally_sync) | ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white) |
+| ✅ [Task Manager + Frontend](https://github.com/GreenHacker420/task-manager-server) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
 
 ---
 
-## *🙏Jai Jinendra🙏*  and  Thank You for Visiting My Profile!
-I appreciate you taking the time to check out my GitHub profile. If you’d like to connect or collaborate, don’t hesitate to reach out. Let's build something awesome together!
+## 💡 Fun Fact / Quote
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF5733&width=600&lines=Currently+Learning+AI+Optimization;Exploring+Full-Stack+Projects;Contributing+to+Open-Source" alt="Learning Badge"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GreenHacker420&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Connect with Me
+<p align="center">
+  [![LinkedIn][linkedin-badge]][linkedin-link]
+  [![GitHub][github-badge]][github-link]
+  [![Gmail][gmail-badge]][gmail-link]
+  [![Instagram][instagram-badge]][instagram-link]
+</p>
 
-<!-- Created with ❤️ by Harsh Hirawat aka GreenHacker -->
+Created with ❤️ by Harsh Hirawat aka GreenHacker
+
+---
+
+<!-- Badge References -->
+[cpp-badge]: https://skillicons.dev/icons?i=cpp
+[cpp-link]: https://en.cppreference.com/w/
+
+[js-badge]: https://skillicons.dev/icons?i=js
+[js-link]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+[python-badge]: https://skillicons.dev/icons?i=python
+[python-link]: https://www.python.org/
+
+[ts-badge]: https://skillicons.dev/icons?i=ts
+[ts-link]: https://www.typescriptlang.org/
+
+[ps-badge]: https://skillicons.dev/icons?i=powershell
+[ps-link]: https://learn.microsoft.com/en-us/powershell/
+
+[bash-badge]: https://skillicons.dev/icons?i=bash
+[bash-link]: https://www.gnu.org/software/bash/
+
+[html-badge]: https://skillicons.dev/icons?i=html
+[html-link]: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+[css-badge]: https://skillicons.dev/icons?i=css
+[css-link]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+[react-badge]: https://skillicons.dev/icons?i=react
+[react-link]: https://reactjs.org/
+
+[bootstrap-badge]: https://skillicons.dev/icons?i=bootstrap
+[bootstrap-link]: https://getbootstrap.com/
+
+[tailwind-badge]: https://skillicons.dev/icons?i=tailwind
+[tailwind-link]: https://tailwindcss.com/
+
+[nextjs-badge]: https://skillicons.dev/icons?i=nextjs
+[nextjs-link]: https://nextjs.org/
+
+[ionic-badge]: https://skillicons.dev/icons?i=ionic
+[ionic-link]: https://ionicframework.com/
+
+[node-badge]: https://skillicons.dev/icons?i=nodejs
+[node-link]: https://nodejs.org/
+
+[express-badge]: https://skillicons.dev/icons?i=express
+[express-link]: https://expressjs.com/
+
+[django-badge]: https://skillicons.dev/icons?i=django
+[django-link]: https://www.djangoproject.com/
+
+[flask-badge]: https://skillicons.dev/icons?i=flask
+[flask-link]: https://flask.palletsprojects.com/
+
+[fastapi-badge]: https://skillicons.dev/icons?i=fastapi
+[fastapi-link]: https://fastapi.tiangolo.com/
+
+[spring-badge]: https://skillicons.dev/icons?i=spring
+[spring-link]: https://spring.io/
+
+[aws-badge]: https://skillicons.dev/icons?i=aws
+[aws-link]: https://aws.amazon.com/
+
+[azure-badge]: https://skillicons.dev/icons?i=azure
+[azure-link]: https://azure.microsoft.com/
+
+[firebase-badge]: https://skillicons.dev/icons?i=firebase
+[firebase-link]: https://firebase.google.com/
+
+[gcp-badge]: https://skillicons.dev/icons?i=gcp
+[gcp-link]: https://cloud.google.com/
+
+[netlify-badge]: https://skillicons.dev/icons?i=netlify
+[netlify-link]: https://www.netlify.com/
+
+[vercel-badge]: https://skillicons.dev/icons?i=vercel
+[vercel-link]: https://vercel.com/
+
+[mysql-badge]: https://skillicons.dev/icons?i=mysql
+[mysql-link]: https://www.mysql.com/
+
+[sqlite-badge]: https://skillicons.dev/icons?i=sqlite
+[sqlite-link]: https://www.sqlite.org/
+
+[mongodb-badge]: https://skillicons.dev/icons?i=mongodb
+[mongodb-link]: https://www.mongodb.com/
+
+[supabase-badge]: https://skillicons.dev/icons?i=supabase
+[supabase-link]: https://supabase.com/
+
+[postgres-badge]: https://skillicons.dev/icons?i=postgres
+[postgres-link]: https://www.postgresql.org/
+
+[gha-badge]: https://skillicons.dev/icons?i=githubactions
+[gha-link]: https://github.com/features/actions
+
+[git-badge]: https://skillicons.dev/icons?i=git
+[git-link]: https://git-scm.com/
+
+[docker-badge]: https://skillicons.dev/icons?i=docker
+[docker-link]: https://www.docker.com/
+
+[postman-badge]: https://skillicons.dev/icons?i=postman
+[postman-link]: https://www.postman.com/
+
+[k8s-badge]: https://skillicons.dev/icons?i=kubernetes
+[k8s-link]: https://kubernetes.io/
+
+[github-badge]: https://skillicons.dev/icons?i=github
+[github-link]: https://github.com/
+
+[tf-badge]: https://skillicons.dev/icons?i=tensorflow
+[tf-link]: https://www.tensorflow.org/
+
+[pt-badge]: https://skillicons.dev/icons?i=pytorch
+[pt-link]: https://pytorch.org/
+
+[figma-badge]: https://skillicons.dev/icons?i=figma
+[figma-link]: https://www.figma.com/
+
+[blender-badge]: https://skillicons.dev/icons?i=blender
+[blender-link]: https://www.blender.org/
+
+[adobe-badge]: https://skillicons.dev/icons?i=adobe
+[adobe-link]: https://www.adobe.com/
+
+[canva-badge]: https://skillicons.dev/icons?i=canva
+[canva-link]: https://www.canva.com/
+
+[arduino-badge]: https://skillicons.dev/icons?i=arduino
+[arduino-link]: https://www.arduino.cc/
+
+[rpi-badge]: https://skillicons.dev/icons?i=raspberrypi
+[rpi-link]: https://www.raspberrypi.com/
+
+[unreal-badge]: https://skillicons.dev/icons?i=unreal
+[unreal-link]: https://www.unrealengine.com/
+
+[notion-badge]: https://skillicons.dev/icons?i=notion
+[notion-link]: https://www.notion.so/
+
+[wp-badge]: https://skillicons.dev/icons?i=wordpress
+[wp-link]: https://wordpress.com/
+
+[powerbi-badge]: https://img.icons8.com/color/48/power-bi.png
+[powerbi-link]: https://powerbi.microsoft.com/
+
+[meta-badge]: https://img.icons8.com/color/48/meta.png
+[meta-link]: https://about.facebook.com/meta/
+
+[xbox-badge]: https://img.icons8.com/color/48/xbox.png
+[xbox-link]: https://www.xbox.com/
+
+[epic-badge]: https://img.icons8.com/color/48/epic-games.png
+[epic-link]: https://www.epicgames.com/
+
+[linkedin-badge]: https://skillicons.dev/icons?i=linkedin
+[linkedin-link]: https://www.linkedin.com/in/harsh-hirawat-b657061b7
+
+[gmail-badge]: https://img.icons8.com/color/48/gmail-new.png
+[gmail-link]: mailto:harsh@greenhacker.tech
+
+[instagram-badge]: https://skillicons.dev/icons?i=instagram
+[instagram-link]: https://www.instagram.com/harsh_hirawat/
+
+[ai-badge]: https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white
+[ai-link]: https://en.wikipedia.org/wiki/Artificial_intelligence
+
+[mental-badge]: https://img.shields.io/badge/Mental_Health-4CAF50?style=for-the-badge&logo=healthicons&logoColor=white
+[mental-link]: https://en.wikipedia.org/wiki/Mental_health
+
+[mediapipe-badge]: https://img.shields.io/badge/MediaPipe-0052FF?style=for-the-badge&logo=mediapipe&logoColor=white
+[mediapipe-link]: https://developers.google.com/mediapipe
+
+[babylon-badge]: https://img.shields.io/badge/Babylon.js-0081C9?style=for-the-badge&logo=babylon.js&logoColor=white
+[babylon-link]: https://www.babylonjs.com/
+
+[hand-badge]: https://img.shields.io/badge/Hand_Tracking-0052FF?style=for-the-badge&logo=mediapipe&logoColor=white
+[hand-link]: https://developers.google.com/mediapipe/solutions/vision/hand_tracking
+
+[nextauth-badge]: https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white
+[nextauth-link]: https://next-auth.js.org/
+
+[gemini-badge]: https://img.shields.io/badge/Gemini_AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white
+[gemini-link]: https://gemini.com/
+
+[finance-badge]: https://img.shields.io/badge/Finance-4CAF50?style=for-the-badge&logo=finance&logoColor=white
+[finance-link]: https://en.wikipedia.org/wiki/Finance
+
+[automation-badge]: https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white
+[automation-link]: https://zapier.com/
