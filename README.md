@@ -92,11 +92,23 @@
 ---
 
 ## 🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="center">
-  [![LinkedIn][linkedin-badge]][linkedin-link]
-  [![GitHub][github-badge]][github-link]
-  [![Gmail][gmail-badge]][gmail-link]
-  [![Instagram][instagram-badge]][instagram-link]
+  <a href="https://www.linkedin.com/in/harsh-hirawat-b657061b7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/GreenHacker420" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:harsh@greenhacker.tech" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/harsh_hirawat/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
+  </a>
 </p>
 
 Created with ❤️ by Harsh Hirawat aka GreenHacker
