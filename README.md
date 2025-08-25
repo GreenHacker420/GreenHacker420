@@ -92,7 +92,6 @@
 ---
 
 ## 🌐 Connect with Me
-## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-hirawat-b657061b7" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
