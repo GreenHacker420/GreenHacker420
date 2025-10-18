@@ -4,6 +4,8 @@
 
 <h1 align="center">👋 Hi, I'm Harsh Hirawat</h1>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4D9EFF&center=true&vCenter=true&width=600&lines=🚀+Passionate+Developer;💡+AI+%26+OpenCV+Enthusiast;🌐+Full-Stack+Engineer" alt="Typing SVG" />
 </p>
@@ -85,6 +87,7 @@
 | ✅ [Task Manager + Frontend](https://github.com/GreenHacker420/task-manager-server) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
 
 ---
+[![An image of @greenhacker420's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/greenhacker420)](https://holopin.io/@greenhacker420)
 
 ## 💡 Fun Fact / Quote
 <p align="center">
