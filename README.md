@@ -67,7 +67,7 @@ class HarshHirawat:
 |---------|-------|--------|
 | Real-Time AI Voice Agent | Gemini Live · WebRTC · FastAPI · Async Python | ![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) |
 | Biotech Intelligence SaaS | Next.js · PostgreSQL · Redis · AWS | ![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) |
-| Agentic RAG System | LangGraph · Rerankers · Vector DBs | ![EXPLORING](https://img.shields.io/badge/EXPLORING-4D9EFF?style=flat-square) |
+| Agentic RAG System | LangGraph · Rerankers · Vector DBs | ![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) |
 | MLOps & LLM Infra | Kubernetes · Prompt Caching · AWS | ![EXPLORING](https://img.shields.io/badge/EXPLORING-4D9EFF?style=flat-square) |
 | 3D Gesture-Controlled Game | Babylon.js · TensorFlow.js · WebGL | ![SIDE_PROJECT](https://img.shields.io/badge/SIDE_PROJECT-FFB300?style=flat-square) |
 
