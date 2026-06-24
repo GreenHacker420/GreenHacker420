@@ -1,0 +1,223 @@
+%-------------------------
+% Harsh Hirawat - ATS-Optimized Resume v3 (95+ Score)
+%-------------------------
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+  citecolor=blue,
+  pdfborder={0 0 0}
+]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{charter}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+%-------------------------
+% Custom Commands
+%-------------------------
+
+\newcommand{\resumeItem}[1]{
+  \item\small{#1 \vspace{-2pt}}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%==========================================================
+\begin{document}
+%==========================================================
+
+%-----------HEADER-----------
+\begin{center}
+    {\Huge \scshape \textbf{Harsh Hirawat}} \\ \vspace{4pt}
+    \small
+    Pune, Maharashtra, India \quad $|$ \quad
+    \href{tel:+919479733955}{+91 94797 33955} \quad $|$ \quad
+    \href{mailto:harsh@greenhacker.in}{harsh@greenhacker.in} \\ \vspace{2pt}
+    \href{https://linkedin.com/in/harshhirawat}{linkedin.com/in/harshhirawat} \quad $|$ \quad
+    \href{https://github.com/greenhacker420}{github.com/greenhacker420} \quad $|$ \quad
+    \href{https://greenhacker.in}{greenhacker.in}
+\end{center}
+
+%-----------PROFESSIONAL SUMMARY-----------
+\section{Professional Summary}
+Full-stack AI engineer and B.Tech CSE student building production LLM, RAG, and backend systems. Experienced with Python, TypeScript, FastAPI/Express, LangChain, LangGraph, Gemini/OpenAI APIs, Pinecone, PostgreSQL, Redis, Docker, AWS, and Cloudflare. Built and deployed real-world AI products including Campus Connect, AskMyNotes, and real-time voice-agent systems, with measurable impact across latency, uptime, and production traffic.
+
+%-----------SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Programming Languages:} Python, JavaScript, TypeScript, Go, SQL \\
+     \textbf{AI / Machine Learning:} PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, MLOps, LLM Fine-Tuning \\
+     \textbf{Generative AI \& Agents:} LangChain, LangGraph, LLM APIs (OpenAI, Gemini, Anthropic, Groq, Mistral), RAG (Pinecone, FAISS, pgvector), Agentic Workflows, Prompt Engineering \\
+     \textbf{Backend Development:} FastAPI, Node.js, Express, REST APIs, WebSockets, Microservices, Async Architectures, pytest, Unit Testing \\
+     \textbf{Frontend Development:} React, Next.js, Tailwind CSS, Server-Side Rendering (SSR) \\
+     \textbf{Databases:} PostgreSQL, Redis, MongoDB \\
+     \textbf{Cloud / DevOps:} Docker, AWS, GCP, Cloudflare, CI/CD Pipelines, Git, Containerization \\
+    }}
+\end{itemize}
+
+%-----------WORK EXPERIENCE-----------
+\section{Work Experience}
+  \resumeSubHeadingListStart
+
+      \resumeSubheading
+      {Freelance Full-Stack Developer}{Oct 2025 -- Present}
+      {MindReader Biotech}{USA (Remote)}
+      \resumeItemListStart
+        \resumeItem{Architected a subscription-based biotech intelligence platform translating clinical research into actionable investment insights, serving 3+ enterprise clients with secure role-based access and production-grade data workflows.}
+        \resumeItem{Built 5+ high-performance analytics dashboards using Next.js and Tailwind CSS, reducing data-to-insight time by $\sim$35\% for end users.}
+        \resumeItem{Deployed containerized microservices using Docker, PostgreSQL, and Redis caching, cutting average deployment time by $\sim$50\% via automated CI/CD pipelines.}
+        \resumeItem{Implemented AWS and Cloudflare infrastructure with automated failover, achieving $\sim$99.9\% uptime across all production environments.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {AI Engineer Intern}{Oct 2025 -- March 2026}
+      {CommKraft}{Remote}
+      \resumeItemListStart
+        \resumeItem{Architected a low-latency real-time AI voice agent platform using Gemini API, WebRTC streaming, and asynchronous tool orchestration, supporting 200+ concurrent sessions.}
+        \resumeItem{Built asynchronous LLM orchestration pipeline with LangChain that reduced agent response latency by $\sim$90\% (from $\sim$3s to under 300ms), improving real-time conversation quality.}
+        \resumeItem{Designed a state-driven conversation engine with interruption handling, tool execution, and recovery workflows, achieving sub-500ms recovery from failures.}
+        \resumeItem{Implemented human-handoff workflows enabling seamless AI-to-human escalation, reducing escalation handling time by $\sim$60\%.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading
+          {\textbf{Evergreen Classic} $|$ \emph{AI-Powered E-Commerce with WhatsApp Integration}}{}
+          \resumeItemListStart
+            \resumeItem{Link: \href{https://evergreenclassic.in}{evergreenclassic.in} $|$ \href{https://wa.me/+918446306598?text=Hi}{WhatsApp}}
+            \resumeItem{Building a full-stack AI-powered e-commerce platform with WhatsApp Business API integration for conversational commerce, covering order tracking, product discovery, and AI-powered customer support.}
+            \resumeItem{Integrating Gemini API-powered recommendation engine and LangChain agentic pipeline to handle customer queries end-to-end, reducing manual support overhead.}
+            \resumeItem{Architecting backend with FastAPI, PostgreSQL, and Redis Stack; deployed on AWS Lightsail with Docker containerization and automated CI/CD pipelines and proxied with Cloudflare.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{Campus Connect} $|$ \emph{Peer-to-Peer EdTech Mentorship Marketplace}}{}
+          \resumeItemListStart
+            \resumeItem{Links: \href{https://campus-connect.co.in}{campus-connect.co.in} $|$ \href{https://wa.me/917666280250}{WhatsApp Bot}}
+            \resumeItem{Built and deployed a production mentorship marketplace using Next.js, Fastify, PostgreSQL, Redis, Docker, Razorpay, WhatsApp APIs, and Cloudflare.}
+            \resumeItem{Served 636k+ requests, 8.5k+ unique visitors, and 27 GB+ data over a 30-day period with production monitoring and caching.}
+            \resumeItem{Implemented booking, payments, mentor discovery, college comparison, admin operations, async workers, and notification workflows.}
+            \resumeItem{Designed high-availability deployment workflows with PostgreSQL replication, Redis replication, Docker Compose, Cloudflare Tunnel, and automated failover checks.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{AskMyNotes} $|$ \emph{Corrective RAG Study Companion}}{}
+          \resumeItemListStart
+            \resumeItem{Links: \href{https://github.com/GreenHacker420/ASKMYNOTES}{github.com/GreenHacker420/ASKMYNOTES} $|$ \href{https://askmynotes.greenhacker.in}{askmynotes.greenhacker.in}}
+            \resumeItem{Built a citation-backed CRAG system for PDFs and text notes using Next.js, Express, TypeScript, PostgreSQL, Pinecone, Gemini, LangGraph, and Socket.IO.}
+            \resumeItem{Implemented subject-scoped vector retrieval, semantic re-ranking, threshold gating, and grounded answer generation to reduce hallucinations.}
+            \resumeItem{Added real-time streaming chat, voice query support, quiz generation, authentication, and per-user subject isolation.}
+            \resumeItem{Processed 1,000+ document chunks and improved retrieval precision by combining semantic similarity with re-ranking.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{ShopControl} $|$ \emph{Mobile-First Shop Operations Platform}}{}
+          \resumeItemListStart
+            \resumeItem{Link: \href{https://github.com/GreenHacker420/stock-app}{github.com/GreenHacker420/stock-app}}
+            \resumeItem{Built a mobile-first operations platform for multi-tenant retail and distribution operations, utilizing a React Native (Expo) frontend and a containerized Node.js (Express) backend.}
+            \resumeItem{Implemented a secure PostgreSQL database layout with Prisma ORM, supporting isolated multi-tenant and multi-shop workflows across sales, inventory, and payment collections.}
+            \resumeItem{Developed asynchronous task workers using BullMQ and Redis for high-throughput background processing, alongside Socket.IO for real-time monitoring and AWS S3 for secure file assets.}
+            \resumeItem{Engineered a custom full-stack Truecaller authentication module (expo-truecaller) for zero-tap mobile verification, with local SQLite caching for offline-first network resilience.}
+          \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Newton School of Technology (ADYPU)}{Pune, Maharashtra, India}
+      {Bachelor of Technology in Computer Science}{Aug 2024 -- May 2028}
+      \resumeItemListStart
+        \resumeItem{\textbf{CGPA:} 8.86 / 10}
+        \resumeItem{\textbf{Relevant Coursework:} Data Structures and Algorithms, Machine Learning, Distributed Systems, Database Management Systems, Operating Systems, Computer Networks, System Design}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------
+\section{Certifications}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {AI Engineer Associate Certificate}{Feb 2026}
+      {School of AI -- Udemy}{Online}
+
+    \resumeSubheading
+      {AI Hero: 12-Month Journey from Zero to Expert}{Feb 2026}
+      {School of AI -- Udemy}{Online}
+
+  \resumeSubHeadingListEnd
+
+%-----------OPEN SOURCE AND ACTIVITIES-----------
+\section{Open Source and Activities}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Open Source:} Active GitHub contributor with 500+ commits across AI/ML and full-stack repositories at \href{https://github.com/greenhacker420}{github.com/greenhacker420} \\
+     \textbf{Portfolio:} Personal developer platform with project showcase and Gemini AI chatbot at \href{https://greenhacker.in}{greenhacker.in} \\
+     \textbf{Key Domains:} LLM systems, RAG pipelines, agentic AI, real-time voice agents, WhatsApp automation, cloud-native deployment, full-stack engineering \\
+    }}
+\end{itemize}
+
+%==========================================================
+\end{document}
