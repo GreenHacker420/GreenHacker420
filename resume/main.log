@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.2.23)  24 JUN 2026 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.2.23)  14 OCT 2026 17:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count196
 \c@section=\count197
@@ -23,21 +23,20 @@ File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 )
-(/usr/local/texlive/2025/texmf-dist/tex/latex/preprint/fullpage.sty
-Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip51
-)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box52
-\beforetitleunit=\skip52
-\aftertitleunit=\skip53
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
 \ttl@plus=\dimen142
 \ttl@minus=\dimen143
 \ttl@toksa=\toks17
@@ -69,7 +68,7 @@ Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 (/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \enitkv@toks@=\toks20
-\labelindent=\skip54
+\labelindent=\skip53
 \enit@outerparindent=\dimen147
 \enit@toks=\toks21
 \enit@inbox=\box53
@@ -218,24 +217,24 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip55
+\Hy@SectionHShift=\skip54
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip56
-\f@nch@offset@elh=\skip57
-\f@nch@offset@erh=\skip58
-\f@nch@offset@olh=\skip59
-\f@nch@offset@orh=\skip60
-\f@nch@offset@elf=\skip61
-\f@nch@offset@erf=\skip62
-\f@nch@offset@olf=\skip63
-\f@nch@offset@orf=\skip64
-\f@nch@height=\skip65
-\f@nch@footalignment=\skip66
-\f@nch@widthL=\skip67
-\f@nch@widthC=\skip68
-\f@nch@widthR=\skip69
+\f@nch@headwidth=\skip55
+\f@nch@offset@elh=\skip56
+\f@nch@offset@erh=\skip57
+\f@nch@offset@olh=\skip58
+\f@nch@offset@orh=\skip59
+\f@nch@offset@elf=\skip60
+\f@nch@offset@erf=\skip61
+\f@nch@offset@olf=\skip62
+\f@nch@offset@orf=\skip63
+\f@nch@height=\skip64
+\f@nch@footalignment=\skip65
+\f@nch@widthL=\skip66
+\f@nch@widthC=\skip67
+\f@nch@widthR=\skip68
 \@temptokenb=\toks23
 )
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
@@ -271,8 +270,8 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \ar@mcellbox=\box54
 \extrarowheight=\dimen154
 \NC@list=\toks24
-\extratabsurround=\skip70
-\backup@length=\skip71
+\extratabsurround=\skip69
+\backup@length=\skip70
 \ar@cellbox=\box55
 )
 \TX@col@width=\dimen155
@@ -286,117 +285,157 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/charter.sty
 Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
 )
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 8
-2.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1bch.fd
-File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count287
+\Gm@cntv=\count288
+\c@Gm@tempcnt=\count289
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks26
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 77
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1bch.fd
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count287
+\l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box56
 )
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen160
+\scratchcounter=\count291
+\scratchdimen=\dimen168
 \scratchbox=\box57
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen161
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks27
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen169
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks28
 )
-Package hyperref Info: Link coloring ON on input line 82.
+Package hyperref Info: Link coloring ON on input line 77.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 89.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 89.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 89
-.
 
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.90755pt, 539.69278pt, 28.90755pt)
+* v-part:(T,H,B)=(21.68121pt, 801.68442pt, 21.68121pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=539.69278pt
+* \textheight=801.68442pt
+* \oddsidemargin=-43.36244pt
+* \evensidemargin=-43.36244pt
+* \topmargin=-87.58878pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=4.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 85.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 85
+.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 121.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 121.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 121.
+(Font)              <7> on input line 99.
 
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 4.08003pt, for example:
-(fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 4.08003pt, for example:
-(fancyhdr)                \setlength{\footskip}{4.08003pt}.
-
-[2] (./main.aux)
+al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AA6F9B5D35F2E0A424F48DBC0742664C;859.
+(rerunfilecheck)             Checksum: E3B16A650165404C12CA818A4824484F;658.
  ) 
 Here is how much of TeX's memory you used:
- 10674 strings out of 473190
- 170659 string characters out of 5715800
- 605632 words of memory out of 5000000
- 33789 multiletter control sequences out of 15000+600000
- 581407 words of font info for 72 fonts, out of 8000000 for 9000
+ 11308 strings out of 473190
+ 178804 string characters out of 5715800
+ 623273 words of memory out of 5000000
+ 34424 multiletter control sequences out of 15000+600000
+ 589954 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,466b,709s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,294b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb><
 /usr/local/texlive/2025/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
-ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on main.pdf (2 pages, 75211 bytes).
+local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/loca
+l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on main.pdf (1 page, 82038 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
